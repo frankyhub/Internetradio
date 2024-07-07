@@ -17,7 +17,7 @@ Ein Accesspunkt mit der SSID „Internetradio“ ohne Passwort wird gestartet. M
 Accesspoint hergestellt werden. Danach kann in einem Browser über die Adresse 192.168.4.1 die Konfigurationsseite aufgerufen werden.
 
 Nach dem Neustart sollte die Verbindung zum lokalen WLAN erfolgreich hergestellt werden können. 
-Die Wiedergabe der Station 0 aus der Default Liste (Bayern 1) sollte mit einer Lautstärke von 50% starten. 
+Die Wiedergabe der ersten Station aus der Senderliste sollte mit einer Lautstärke von 50% starten. 
 Mit dem Encoder für die Lautstärke kann die Verstärkung eingestellt werden. Änderungen werden in den Präferenzen gespeichert, 
 sodass beim nächsten Einschalten dieselbe Lautstärke eingestellt wird. Mit dem anderen Encoder kann ein Sender aus der Senderliste gewählt werden. 
 Beim Drehen des Encoders wird in der zweiten Zeile des Displays der Name der Station angezeigt. 
