@@ -31,7 +31,7 @@ boolean initWiFi(String ssid, String pkey) {
     if (!connected) {
        Serial.println("Keine Verbindung! \nStarte Access-Point.");
           WiFi.mode(WIFI_AP);
-          WiFi.softAP("webradioconf","",1);
+          WiFi.softAP("Internetradio","",1);
     }
     return connected;
 }
