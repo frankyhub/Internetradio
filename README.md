@@ -48,11 +48,11 @@ In den WLAN-Einstellungen „webradioconf“ auswählen
 
 WLAN SSID und Password eingeben
 
- ![Bild](pic/Accesspoint0.png)
+ ![Bild](pic/Accesspoint1.png)
 
  Nach der Eingabe "Neustart" auswählen
  
- ![Bild](pic/Accesspoint0.png)
+ ![Bild](pic/Accesspoint2.png)
 
 Kontrolle am Seriellen Monitor
 
