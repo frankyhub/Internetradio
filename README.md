@@ -90,7 +90,7 @@ Im Browser die Zugangsdaten eingeben und neu starten
 ---
  
 
-## Senderliste
+## Voreingestellte Senderliste
 
 http://dispatcher.rndfnk.com/br/br1/nbopf/mp3/low
 http://dispatcher.rndfnk.com/br/br3/live/mp3/low
