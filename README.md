@@ -39,7 +39,7 @@ ehe sie gespeichert wird. Ein Firmwareupdate ist auch über WLAN (Over The Air =
 
 ## Inbetriebnahme
 Bei der ersten Inbetriebnahme sind noch keine Präferenzen vorhanden. Es kann daher keine Verbindung zum lokalen WLAN hergestellt werden. 
-Ein Accesspunkt mit der SSID „webradioconf“ ohne Passwort wird gestartet. Mit z.B. einem Smartphone kann nun eine Verbindung zu diesem 
+Ein Accesspunkt mit der SSID „Internetradio“ ohne Passwort wird gestartet. Mit z.B. einem Smartphone kann nun eine Verbindung zu diesem 
 Accesspoint hergestellt werden. Danach kann in einem Browser über die Adresse 192.168.4.1 die Konfigurationsseite aufgerufen werden.
 
 In den WLAN-Einstellungen „webradioconf“ auswählen
