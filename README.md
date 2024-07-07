@@ -92,6 +92,11 @@ Im Browser die Zugangsdaten eingeben und neu starten
 
 ![Bild](pic/Accesspoint3.png)
 
+Kontrolle mit dem Seriellen Monitor
+
+![Bild](pic/sermonitor.png)
+
+
 
 ---
 
