@@ -3,9 +3,9 @@
 Internetradio mit WEB-Server, TFT 1,88 oder LCD 4 Zeilen Display
 
 ## Story
-Das Internetradio steht mit einem TFT 1,88" oder einem LCD 4x20 mit I2C Schnittstelle zur Verfügung.
+Das Internetradio steht mit dem Display TFT 1,88" oder einem LCD 4x20 mit I2C Schnittstelle zur Verfügung.
 Neben dem gerade gespielten Sender werden Datum und Uhrzeit, sowie die aktuelle Lautstärke angezeigt. 
-In den beiden unteren Zeilen werden Informationen zum laufenden Programm angezeigt, die mit dem Audiostream mitgeschickt werden. 
+In den beiden unteren Zeilen sind die Informationen zum laufenden Programm, die mit dem Audiostream mitgeschickt werden. 
 Die Lautstärkeregelung erfolgt ebenso, wie die Senderwahl über einen Rotary-Encoder. Die Konfiguration kann
 auch über einen Browser erfolgen. Über diesen Weg ist die Senderliste veränder- und erweiterbar. 
 Da manche URLs nicht abspielbar sind, kann eine URL über die Browserkonfiguration getestet werden, 
