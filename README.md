@@ -11,6 +11,8 @@ auch über einen Browser erfolgen. Über diesen Weg ist die Senderliste verände
 Da manche URLs nicht abspielbar sind, kann eine URL über die Browserkonfiguration getestet werden, 
 ehe sie gespeichert wird. Ein Firmwareupdate ist auch über WLAN (Over The Air = OTA) möglich.
 
+---
+
 ## Hardware
 
 | Anzahl | Bezeichnung | 
@@ -30,6 +32,9 @@ ehe sie gespeichert wird. Ein Firmwareupdate ist auch über WLAN (Over The Air =
 |  1 |  5V-Netzteil  |
 |   | Kabel   |
 |  --- |  ---  |
+
+
+---
 
 ## Verdrahtung
 
@@ -61,7 +66,7 @@ Aufruf des WEB-Servers mit einem Browser
 
  ![Bild](pic/Internetradion2.png)
 
-
+---
  
 
 ## Senderliste
@@ -89,12 +94,11 @@ http://rnrw.cast.addradio.de/rnrw-0182/deinschlager/low/stream.mp3
 http://rnrw.cast.addradio.de/rnrw-0182/dein90er/low/stream.mp3
 
 
-
 ---
 ---
-
-
 
 <div style="position:absolute; left:2cm; ">   
 <ol class="breadcrumb" style="border-top: 2px solid black;border-bottom:2px solid black; height: 45px; width: 900px;"> <p align="center"><a href="#oben">nach oben</a></p></ol>
 </div> 
+
+---
