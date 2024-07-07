@@ -1,5 +1,4 @@
 <a name="oben"></a>
-
 # Internetradio
 Internetradio mit WEB-Server, TFT 1,88 oder LCD 4 Zeilen Display
 
@@ -65,13 +64,29 @@ Aufruf des WEB-Servers mit einem Browser
 
  
 
+## Senderliste
 
 
 
-
-
-
-
+http://dispatcher.rndfnk.com/br/br1/nbopf/mp3/low
+http://dispatcher.rndfnk.com/br/br3/live/mp3/low
+http://stream.antenne.de/antenne
+http://dispatcher.rndfnk.com/rbb/antennebrandenburg/live/mp3/mid
+http://dispatcher.rndfnk.com/rbb/rbb888/live/mp3/mid
+http://rnrw.cast.addradio.de/rnrw-0182/deinrock/low/stream.mp3
+http://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3
+http://icecast.ndr.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3
+http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3
+http://wdr-cosmo-live.icecast.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3
+http://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3
+http://stream.1a-webradio.de/saw-deutsch/
+http://streams.80s80s.de/ndw/mp3-192/streams.80s80s.de/
+http://dispatcher.rndfnk.com/br/brklassik/live/mp3/low
+http://mdr-284280-1.cast.mdr.de/mdr/284280/1/mp3/low/stream.mp3
+http://wdr-wdr3-live.icecastssl.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3
+http://wdr-wdr2-aachenundregion.icecastssl.wdr.de/wdr/wdr2/aachenundregion/mp3/128/stream.mp3
+http://rnrw.cast.addradio.de/rnrw-0182/deinschlager/low/stream.mp3
+http://rnrw.cast.addradio.de/rnrw-0182/dein90er/low/stream.mp3
 
 
 
