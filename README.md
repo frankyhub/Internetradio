@@ -95,7 +95,8 @@ Im Browser die Zugangsdaten eingeben und neu starten
 
 ---
 
- ## OTA, Aufruf mit "http://Internetradio/" 
+ ## OTA, Aufruf mit http://Internetradio/
+ ## OTA, Aufruf mit <a href="[#](http://Internetradio/)" onclick="return false;">
 
  ![Bild](pic/OTA.png)
 
