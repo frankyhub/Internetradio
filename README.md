@@ -97,6 +97,7 @@ Im Browser die Zugangsdaten eingeben und neu starten
 
  ## OTA, Aufruf mit [[http://www.url-here-instead.com](http://Internetradio/)]()
 
+[[http://www.url-here-instead.com](http://Internetradio/)]()
 
  ![Bild](pic/OTA.png)
 
