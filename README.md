@@ -95,8 +95,8 @@ Im Browser die Zugangsdaten eingeben und neu starten
 
 ---
 
- ## OTA, Aufruf mit <a href="#0">http://Internetradio/</a>
-<a href="#0">Fly, fly, fly away</a>
+ ## OTA, Aufruf mit "Internetradio"
+
 
  ![Bild](pic/OTA.png)
 
