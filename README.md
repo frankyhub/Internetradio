@@ -70,15 +70,27 @@ Es wird wieder die aktuelle Station wiedergegeben.  Mit dem Knopf „Ändern“ 
 
 ![Bild](pic/Schaltplan2.png)
 
+---
 
+## WLAN-Daten speichern
+
+Aufruf "Internetradio" in den WLAN-Einstellungen
+
+![Bild](pic/Accesspoint0.png)
+
+Im Browser 192.168.4.1 eingeben
+
+![Bild](pic/Accesspoint1.png)
+
+Im Browser die Zugangsdaten eingeben und neu starten
+
+![Bild](pic/Accesspoint3.png)
 
 
 ---
  
 
 ## Senderliste
-
-
 
 http://dispatcher.rndfnk.com/br/br1/nbopf/mp3/low
 http://dispatcher.rndfnk.com/br/br3/live/mp3/low
