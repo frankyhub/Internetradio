@@ -8,7 +8,7 @@ Neben dem gerade gespielten Sender werden Datum und Uhrzeit, sowie die aktuelle 
 In den beiden unteren Zeilen sind die Informationen zum laufenden Programm, die mit dem Audiostream mitgeschickt werden. 
 Die Lautstärkeregelung erfolgt ebenso wie die Senderwahl über einen Rotary-Encoder. Die Konfiguration kann
 auch über einen Browser erfolgen. Über diesen Weg ist die Senderliste veränder- und erweiterbar. 
-Da manche URLs nicht abspielbar sind, kann eine URL über die Browserkonfiguration vor dem speichern vorab getestet werden. 
+Da nicht jede Sender-URL abspielbar ist, kann die URL über die Browserkonfiguration vor dem speichern vorab getestet werden. 
 
 ### Inbetriebnahme
 
