@@ -12,8 +12,8 @@ Da nicht jede Sender-URL abspielbar ist, kann die URL über die Browserkonfigura
 
 ### Inbetriebnahme
 
-Bei der ersten Inbetriebnahme sind noch keine Präferenzen vorhanden. Es kann daher keine Verbindung zum lokalen WLAN hergestellt werden. 
-Ein Accesspunkt mit der SSID „Internetradio“ ohne Passwort wird gestartet. Mit einem Smartphone oder Tablet kann nun eine Verbindung zu diesem 
+Bei der ersten Inbetriebnahme ist noch keine SSID und kein WLAN-Passwort vorhanden. Es kann daher keine Verbindung zum lokalen WLAN hergestellt werden. 
+Ein Accesspoint mit der SSID „Internetradio“ wird gestartet. Mit einem Smartphone oder einem Tablet kann nun eine Verbindung zu diesem 
 Accesspoint hergestellt werden. Danach kann in einem Browser über die Adresse 192.168.4.1 die Konfigurationsseite aufgerufen werden.
 
 Nach dem Neustart sollte die Verbindung zum lokalen WLAN erfolgreich hergestellt werden können. 
