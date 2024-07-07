@@ -52,7 +52,7 @@ WLAN SSID und Password eingeben
 
  Nach der Eingabe "Neustart" auswählen
  
- ![Bild](pic/Accesspoint2.png)
+ ![Bild](pic/Accesspoint3.png)
 
 Kontrolle am Seriellen Monitor
 
