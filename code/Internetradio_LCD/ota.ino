@@ -3,7 +3,7 @@ uint32_t oldprc;
 //prepare OTA
 void setup_ota() {
   //set host name and passwort
-  ArduinoOTA.setHostname("webradio");
+  ArduinoOTA.setHostname("Internetradio");
   ArduinoOTA.setPassword("radioupdate");
   //register callback routines
   ArduinoOTA.onStart(ota_onStart);
