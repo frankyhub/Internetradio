@@ -1,6 +1,6 @@
 <a name="oben"></a>
 # Internetradio
-Internetradio mit WEB-Server, OTA-Funktion, TFT 1,88 oder LCD 4 Zeilen Display
+Internetradio mit WEB-Server, OTA-Funktion, TFT 1,88 oder LCD 4 Zeilen Display, digitales Amplifier Board MAX98357A
 
 ## Story
 Das Internetradio steht mit einem  TFT 1,88" Display oder einem LCD 4x20 Display mit I2C Schnittstelle zur Verfügung.
