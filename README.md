@@ -68,6 +68,12 @@ Es wird wieder die aktuelle Station wiedergegeben.  Mit dem Knopf „Ändern“ 
 
 ## Verdrahtung
 
+Mit LCD-Display
+
+![Bild](pic/Schaltplan1.png)
+
+Mit TFT-Display
+
 ![Bild](pic/Schaltplan2.png)
 
 ---
