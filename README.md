@@ -1,6 +1,6 @@
 <a name="oben"></a>
 # Internetradio
-Internetradio mit WEB-Server, TFT 1,88 oder LCD 4 Zeilen Display
+Internetradio mit WEB-Server, OTA-Funktion, TFT 1,88 oder LCD 4 Zeilen Display
 
 ## Story
 Das Internetradio steht mit dem Display TFT 1,88" oder einem LCD 4x20 mit I2C Schnittstelle zur Verfügung.
