@@ -10,6 +10,12 @@ Die Lautstärkeregelung erfolgt ebenso wie die Senderwahl über einen Rotary-Enc
 auch über einen Browser erfolgen. Über diesen Weg ist die Senderliste veränder- und erweiterbar. 
 Da nicht jede Sender-URL abspielbar ist, kann die URL über die Browserkonfiguration vor dem speichern vorab getestet werden. 
 
+LCD-Display
+
+![Bild](pic/Display.png)
+
+
+
 ### Inbetriebnahme
 
 Bei der ersten Inbetriebnahme ist noch keine SSID und kein WLAN-Passwort vorhanden. Es kann daher keine Verbindung zum lokalen WLAN hergestellt werden. 
