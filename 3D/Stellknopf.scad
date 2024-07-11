@@ -33,7 +33,7 @@ Knurled = 1;	// [0:Nein, 1:Ja]
 $fn=80;
 
 // Loch-Durchmesser in mm.
-HoleDiameter = 6.1;
+HoleDiameter = 6.3;
 
 // Tiefe des Lochs im Boden (in mm). 
 HoleDepth = 18;
