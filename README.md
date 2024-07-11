@@ -111,6 +111,9 @@ Kontrolle mit dem Seriellen Monitor
 
  ![Bild](pic/OTA.png)
 
+
+  ![Bild](pic/verbinde.png)
+
  ---
  
 
