@@ -90,7 +90,8 @@ Kontrolle mit dem Seriellen Monitor
 
 ![Bild](pic/sermonitor.png)
 
-<div style="position:absolute; left:2cm; ">   
+
+ ![Bild](pic/Iradio3.png)
 
 ---
 
@@ -121,7 +122,7 @@ Es wird wieder die aktuelle Station wiedergegeben.  Mit dem Knopf „Ändern“ 
 
   ![Bild](pic/Iradio4.png)
 
-  ![Bild](pic/Iradio3.png)
+
 
  ---
  
@@ -151,9 +152,7 @@ http://rnrw.cast.addradio.de/rnrw-0182/dein90er/low/stream.mp3
 
 ---
 ---
-
-
-<ol class="breadcrumb" style="border-top: 2px solid black;border-bottom:2px solid black; height: 45px; width: 900px;"> <p align="center"><a href="#oben">nach oben</a></p></ol>
+<div style="position:absolute; left:2cm; ">  <ol class="breadcrumb" style="border-top: 2px solid black;border-bottom:2px solid black; height: 45px; width: 900px;"> <p align="center"><a href="#oben">nach oben</a></p></ol>
 </div> 
 
 ---
