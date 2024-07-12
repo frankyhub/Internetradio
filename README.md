@@ -90,8 +90,9 @@ Kontrolle mit dem Seriellen Monitor
 
 ![Bild](pic/sermonitor.png)
 
+  ![Bild](pic/Iradio4.png)
+  
 
- ![Bild](pic/Iradio3.png)
 
 ---
 
@@ -120,8 +121,8 @@ Es wird wieder die aktuelle Station wiedergegeben.  Mit dem Knopf „Ändern“ 
  ![Bild](pic/OTA.png)
 
 
-  ![Bild](pic/Iradio4.png)
 
+ ![Bild](pic/Iradio3.png)
 
 
  ---
