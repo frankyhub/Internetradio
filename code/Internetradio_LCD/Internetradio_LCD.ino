@@ -89,8 +89,12 @@ void setup() {
   setGain(); //set the current gain
   //Try to connect WLAN show process on display 
   displayClear();
-  displayMessage(0,"Verbinde WLAN");
-  displayMessage(1,ssid);
+  displayMessage(0, "Servus Franky");
+
+  displayMessage(2, "Verbinde mit");
+  displayMessage(3,ssid);
+
+  
   Serial.println("Verbinde WiFi");
   connected = initWiFi(ssid, pkey);
   if (connected) { //successful connection
