@@ -12,7 +12,9 @@ Da nicht jede Sender-URL abspielbar ist, kann die URL über die Browserkonfigura
 
 LCD-Display
 
-![Bild](pic/Display.png)
+ ![Bild](pic/Iradio1.png)
+
+![Bild](pic/Iradio3.png)
 
 
 
@@ -82,6 +84,9 @@ Mit TFT-Display
 
 ![Bild](pic/Schaltplan2.png)
 
+
+![Bild](pic/Iradio2.png)
+
 ---
 
 ## WLAN-Daten speichern
@@ -112,7 +117,7 @@ Kontrolle mit dem Seriellen Monitor
  ![Bild](pic/OTA.png)
 
 
-  ![Bild](pic/verbinde.png)
+  ![Bild](pic/Iradio4.png)
 
  ---
  
