@@ -10,7 +10,7 @@ Die Lautstärkeregelung erfolgt ebenso wie die Senderwahl über einen Rotary-Enc
 auch über einen Browser erfolgen. Über diesen Weg ist die Senderliste veränder- und erweiterbar. 
 Da nicht jede Sender-URL abspielbar ist, kann die URL über die Browserkonfiguration vor dem speichern vorab getestet werden. 
 
-LCD-Display
+Internetradio 
 
  ![Bild](pic/Iradio1.png)
 
