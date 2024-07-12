@@ -15,38 +15,6 @@ Internetradio
  ![Bild](pic/Iradio1.png)
 
 
-
-### Inbetriebnahme
-
-Bei der ersten Inbetriebnahme ist noch keine SSID und kein WLAN-Passwort vorhanden. Es kann daher keine Verbindung zum lokalen WLAN hergestellt werden. 
-Ein Accesspoint mit der SSID „Internetradio“ wird gestartet. Mit einem Smartphone oder einem Tablet kann nun eine Verbindung zu diesem 
-Accesspoint hergestellt werden. Danach kann in einem Browser über die Adresse 192.168.4.1 die Konfigurationsseite aufgerufen werden.
-
-Nach dem Neustart sollte die Verbindung zum lokalen WLAN erfolgreich hergestellt werden können. 
-Die Wiedergabe der ersten Station aus der Senderliste sollte mit einer Lautstärke von 50% starten. 
-Mit dem Encoder für die Lautstärke kann die Verstärkung eingestellt werden. Änderungen werden in den Präferenzen gespeichert, 
-sodass beim nächsten Einschalten dieselbe Lautstärke eingestellt wird. Mit dem anderen Encoder kann ein Sender aus der Senderliste gewählt werden. 
-Beim Drehen des Encoders wird in der zweiten Zeile des Displays der Name der Station angezeigt. 
-Durch Drücken des Kopfes am Encoder wird die gerade angezeigte Station gespeichert und die Wiedergabe gestartet. 
-Auch dieser Wert wird in den Präferenzen gespeichert und beim nächsten Start die zuletzt gewählte Station wiedergegeben. 
-Wird der Knopf am Encoder innerhalb von 10 Sekunden nicht gedrückt, springt die Anzeige auf die aktuelle Station zurück.
-
-
-### Firmware Update über OTA
-
-Über die URL http://Internetradio/ sollte die Konfigurationsseite abrufbar sein. Im oberen Teil können die Zugangsdaten und der NTP-Server geändert werden. 
-Die Änderungen werden erst dann wirksam, wenn der Knopf „Speichern“ geklickt wurde.
-Mit dem Knopf „Neustart“ kann ein Neustart ausgelöst werden.
-
-Die Dropdown-Liste enthält alle Sender der Senderliste. Auswählbare Sender haben vor dem Namen einen schwarzen Punkt. 
-Im Formular darunter sind die Daten zur ausgewählten Station gelistet und können geändert werden. 
-Ist das Häkchen bei „Verwenden“ nicht gesetzt, ist die Station im Gerät nicht wählbar.
-Da manche URLs nicht funktionieren, sollte man die neue URL testen (Testen-Button). 
-Ein Klicken auf diesen Knopf startet die Wiedergabe der URL am Gerät. 
-Sollte die Wiedergabe nicht funktionieren, wird sofort wieder auf den aktuellen Sender zurückgeschaltet und eine Meldung angezeigt. 
-Ist die Wiedergabe möglich, wird eine Box mit einem Knopf angezeigt. Ein Klicken auf diesen Knopf schließt die Box und beendet den Test. 
-Es wird wieder die aktuelle Station wiedergegeben.  Mit dem Knopf „Ändern“ können die Änderungen für die ausgewählte Station dauerhaft geändert werden.
-
 ---
 
 ## Hardware
@@ -105,9 +73,41 @@ Kontrolle mit dem Seriellen Monitor
 
 ![Bild](pic/sermonitor.png)
 
+---
 
+### Inbetriebnahme
+
+Bei der ersten Inbetriebnahme ist noch keine SSID und kein WLAN-Passwort vorhanden. Es kann daher keine Verbindung zum lokalen WLAN hergestellt werden. 
+Ein Accesspoint mit der SSID „Internetradio“ wird gestartet. Mit einem Smartphone oder einem Tablet kann nun eine Verbindung zu diesem 
+Accesspoint hergestellt werden. Danach kann in einem Browser über die Adresse 192.168.4.1 die Konfigurationsseite aufgerufen werden.
+
+Nach dem Neustart sollte die Verbindung zum lokalen WLAN erfolgreich hergestellt werden können. 
+Die Wiedergabe der ersten Station aus der Senderliste sollte mit einer Lautstärke von 50% starten. 
+Mit dem Encoder für die Lautstärke kann die Verstärkung eingestellt werden. Änderungen werden in den Präferenzen gespeichert, 
+sodass beim nächsten Einschalten dieselbe Lautstärke eingestellt wird. Mit dem anderen Encoder kann ein Sender aus der Senderliste gewählt werden. 
+Beim Drehen des Encoders wird in der zweiten Zeile des Displays der Name der Station angezeigt. 
+Durch Drücken des Kopfes am Encoder wird die gerade angezeigte Station gespeichert und die Wiedergabe gestartet. 
+Auch dieser Wert wird in den Präferenzen gespeichert und beim nächsten Start die zuletzt gewählte Station wiedergegeben. 
+Wird der Knopf am Encoder innerhalb von 10 Sekunden nicht gedrückt, springt die Anzeige auf die aktuelle Station zurück.
+
+
+### Firmware Update über OTA
+
+Über die URL http://Internetradio/ sollte die Konfigurationsseite abrufbar sein. Im oberen Teil können die Zugangsdaten und der NTP-Server geändert werden. 
+Die Änderungen werden erst dann wirksam, wenn der Knopf „Speichern“ geklickt wurde.
+Mit dem Knopf „Neustart“ kann ein Neustart ausgelöst werden.
+
+Die Dropdown-Liste enthält alle Sender der Senderliste. Auswählbare Sender haben vor dem Namen einen schwarzen Punkt. 
+Im Formular darunter sind die Daten zur ausgewählten Station gelistet und können geändert werden. 
+Ist das Häkchen bei „Verwenden“ nicht gesetzt, ist die Station im Gerät nicht wählbar.
+Da manche URLs nicht funktionieren, sollte man die neue URL testen (Testen-Button). 
+Ein Klicken auf diesen Knopf startet die Wiedergabe der URL am Gerät. 
+Sollte die Wiedergabe nicht funktionieren, wird sofort wieder auf den aktuellen Sender zurückgeschaltet und eine Meldung angezeigt. 
+Ist die Wiedergabe möglich, wird eine Box mit einem Knopf angezeigt. Ein Klicken auf diesen Knopf schließt die Box und beendet den Test. 
+Es wird wieder die aktuelle Station wiedergegeben.  Mit dem Knopf „Ändern“ können die Änderungen für die ausgewählte Station dauerhaft geändert werden.
 
 ---
+
 
  ## OTA Aufruf mit "Internetradio"
 
