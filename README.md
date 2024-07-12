@@ -14,8 +14,6 @@ LCD-Display
 
  ![Bild](pic/Iradio1.png)
 
-![Bild](pic/Iradio3.png)
-
 
 
 ### Inbetriebnahme
@@ -118,6 +116,8 @@ Kontrolle mit dem Seriellen Monitor
 
 
   ![Bild](pic/Iradio4.png)
+
+  ![Bild](pic/Iradio3.png)
 
  ---
  
