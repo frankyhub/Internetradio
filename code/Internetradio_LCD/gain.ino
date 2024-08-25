@@ -25,9 +25,9 @@ void gain_loop()
     setGain();  //set the real loudness
     uint8_t g = curGain;
     if (g > 99) g = 99;  
-    lcd.setCursor(18,2);
+    lcd.setCursor(18,1);
     lcd.print("  ");
-    lcd.setCursor(18,2);
+    lcd.setCursor(18,1);
     lcd.print(g);
   }
 }

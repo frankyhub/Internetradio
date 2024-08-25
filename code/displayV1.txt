@@ -1,3 +1,22 @@
+/* gain ändern
+void gain_loop()
+{
+  //dont do anything unless value changed
+  if (gain.encoderChanged())
+  {
+    curGain = gain.readEncoder(); //get new value for gain
+    pref.putUShort("gain",curGain);  //save the new value to preferences
+    setGain();  //set the real loudness
+    uint8_t g = curGain;
+    if (g > 99) g = 99;  
+    lcd.setCursor(18,1);//18,2
+    lcd.print("  ");
+    lcd.setCursor(18,1);//18,2
+    lcd.print(g);
+  }
+}
+*/
+
 //library for LCD display
 #include <LiquidCrystal_I2C.h>
 
@@ -63,24 +82,26 @@ void ex_print(String output) {
 
 }
 
+
+
 //show name of current station on LCD display
 //show the speaker symbol in front if current station = active station
 void showStation() {
   clearLine(0);
-  lcd.setCursor(0, 0);
-//  lcd.print("KHF Internetradio");
-  lcd.print(ssid);
-  lcd.print(" ");
-  lcd.print(WiFi.localIP()); 
+  clearLine(1);
+  lcd.setCursor(6, 0);
+  lcd.print("Frankys");
+  lcd.setCursor(3, 1);
+  lcd.print("Internetradio");
 
-  clearLine(2);
+  clearLine(3);
   //show speaker if current station is active
   if (curStation == actStation) {
-    lcd.setCursor(0, 2);
+    lcd.setCursor(0, 3);
     lcd.print(char(0));
   }
   //show station name on position 2
-  lcd.setCursor(0, 2);
+  lcd.setCursor(2, 3);
   String name = String(stationlist[curStation].name);
   ex_print(name.substring(0, 18)); //limit length to 18 chars
 }
@@ -109,9 +130,9 @@ void displayMessage2(uint8_t line, String msg) {
 //show date, time and loudness in the first line
 void displayDateTime() {
   char sttime[21];
-  clearLine(1); //-----------------------------------------------------------------------------
+  clearLine(2); //-----------------------------------------------------------------------------
   //limit gain on 99% since we have only two digits
-  lcd.setCursor(0, 1);
+  lcd.setCursor(0, 2);
   struct tm timeinfo;
   if (getLocalTime(&timeinfo)) {
     //get date and time as a string
@@ -126,7 +147,7 @@ void displayDateTime() {
   uint8_t g = curGain;
   if (g > 99) g = 99;
   // lcd.setCursor(18,0);
-  lcd.setCursor(18, 1);
+  lcd.setCursor(18, 2);
   lcd.print(g);
 }
 
