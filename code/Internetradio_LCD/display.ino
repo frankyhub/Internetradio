@@ -68,10 +68,10 @@ void ex_print(String output) {
 void showStation() {
   clearLine(0);
   lcd.setCursor(0, 0);
-//  lcd.print("KHF Internetradio");
-  lcd.print(ssid);
-  lcd.print(" ");
-  lcd.print(WiFi.localIP()); 
+  lcd.print("KHF Internetradio");
+//  lcd.print(ssid);
+//  lcd.print(" ");
+//  lcd.print(WiFi.localIP()); 
 
   clearLine(2);
   //show speaker if current station is active
