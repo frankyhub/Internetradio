@@ -124,6 +124,9 @@ Sollte die Wiedergabe nicht funktionieren, wird sofort wieder auf den aktuellen 
 Ist die Wiedergabe möglich, wird eine Box mit einem Knopf angezeigt. Ein Klicken auf diesen Knopf schließt die Box und beendet den Test. 
 Es wird wieder die aktuelle Station wiedergegeben.  Mit dem Knopf „Ändern“ können die Änderungen für die ausgewählte Station dauerhaft geändert werden.
 
+ ![Bild](pic/Internetradion2.png)
+
+
 ---
 
 
