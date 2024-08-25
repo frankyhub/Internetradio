@@ -1,4 +1,16 @@
 <a name="oben"></a>
+
+<div align="center">
+
+  |[:skull:ISSUE](https://github.com/frankyhub/Internetradio/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/Internetradio/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/Internetradio/wiki)|
+|--|--|--|
+| | | |
+|![GitHub issues](https://img.shields.io/github/issues/frankyhub/Internetradio)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Internetradio)|![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Internetradio)|![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Internetradio)|
+|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/finaldie/skull.svg)[](https://github.com/frankyhub/Internetradio/pulls)|[<img src="https://img.shields.io/github/license/finaldie/skull.svg">](https://github.com/frankyhub/Internetradio/blob/main/LICENSE.md)| ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
+</div>
+
+
+
 # Internetradio
 Internetradio mit WEB-Server, OTA-Funktion, TFT 1,88 oder LCD 4 Zeilen Display, digitales Amplifier Board MAX98357A
 
