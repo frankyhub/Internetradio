@@ -188,7 +188,7 @@ Es wird wieder die aktuelle Station wiedergegeben.  Mit dem Knopf „Ändern“ 
 
 22 NDR2 Niedersachsen http://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3
 
-23 NDR1 Hannove http://icecast.ndr.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3
+23 NDR1 Hannover http://icecast.ndr.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3
 
 24 WDR1 http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3
 
