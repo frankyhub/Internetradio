@@ -24,7 +24,7 @@ Da nicht jede Sender-URL abspielbar ist, kann die URL über die Browserkonfigura
 
 Internetradio 
 
- ![Bild](pic/Iradio1.png)
+ ![Bild](pic/Iradio0.png)
 
 
 ---
@@ -109,7 +109,7 @@ Kontrolle mit dem Seriellen Monitor
 ---
 
 
-### Firmware Update über OTA
+### Konfigurations Update über OTA
 
 Über die URL http://Internetradio/ sollte die Konfigurationsseite abrufbar sein. Im oberen Teil können die Zugangsdaten und der NTP-Server geändert werden. 
 Die Änderungen werden erst dann wirksam, wenn der Knopf „Speichern“ geklickt wurde.
@@ -132,9 +132,11 @@ Es wird wieder die aktuelle Station wiedergegeben.  Mit dem Knopf „Ändern“ 
 
  ![Bild](pic/OTA.png)
 
+ ![Bild](pic/OTA2.png)
+ 
+  ![Bild](pic/OTA3.png)
 
 
- ![Bild](pic/Iradio3.png)
 
 
  ---
@@ -142,25 +144,32 @@ Es wird wieder die aktuelle Station wiedergegeben.  Mit dem Knopf „Ändern“ 
 
 ## Voreingestellte Senderliste
 
-http://dispatcher.rndfnk.com/br/br1/nbopf/mp3/low
-http://dispatcher.rndfnk.com/br/br3/live/mp3/low
-http://stream.antenne.de/antenne
-http://dispatcher.rndfnk.com/rbb/antennebrandenburg/live/mp3/mid
-http://dispatcher.rndfnk.com/rbb/rbb888/live/mp3/mid
-http://rnrw.cast.addradio.de/rnrw-0182/deinrock/low/stream.mp3
-http://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3
-http://icecast.ndr.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3
-http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3
-http://wdr-cosmo-live.icecast.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3
-http://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3
-http://stream.1a-webradio.de/saw-deutsch/
-http://streams.80s80s.de/ndw/mp3-192/streams.80s80s.de/
-http://dispatcher.rndfnk.com/br/brklassik/live/mp3/low
-http://mdr-284280-1.cast.mdr.de/mdr/284280/1/mp3/low/stream.mp3
-http://wdr-wdr3-live.icecastssl.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3
-http://wdr-wdr2-aachenundregion.icecastssl.wdr.de/wdr/wdr2/aachenundregion/mp3/128/stream.mp3
-http://rnrw.cast.addradio.de/rnrw-0182/deinschlager/low/stream.mp3
-http://rnrw.cast.addradio.de/rnrw-0182/dein90er/low/stream.mp3
+1* Spitalradio LuZ	https://s10.streamingcloud.online:13552/radioluz320.mp3
+2 Bayern1		http://dispatcher.rndfnk.com/br/br1/nbopf/mp3/low
+3 Antenne Bayern	http://stream.antenne.de/antenne
+4 NRW Rockradio	http://rnrw.cast.addradio.de/rnrw-0182/deinrock/low/stream.mp3
+5 RT1 Rock	http://rt1.radio/tu6h1
+6* 1A Rock		http://1a-rock.radionetz.de:8000/1a-rock.mp3
+7* NDW		http://1a-ndw.radionetz.de/1a-ndw.mp3
+8 WDR 2		http://wdr-wdr2-aachenundregion.icecastssl.wdr.de/wdr/wdr2/aachenundregion/mp3/128/stream.mp3
+9 WDR3		http://wdr-wdr3-live.icecastssl.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3
+10 HR3		http://dispatcher.rndfnk.com/hr/hr3/suedhessen/high
+11 MDR		http://mdr-284280-1.cast.mdr.de/mdr/284280/1/mp3/low/stream.mp3
+12 RBB		http://dispatcher.rndfnk.com/rbb/rbb888/live/mp3/mid
+13 Ant Brandenburg	http://dispatcher.rndfnk.com/rbb/antennebrandenburg/live/mp3/mid
+14 N-JOY		http://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3
+15 Radino		http://stream01.zogl.net:8906/stream
+16 NRW 90er	http://rnrw.cast.addradio.de/rnrw-0182/dein90er/low/stream.mp3
+17 1A Deutsche Hits http://stream.1a-webradio.de/saw-deutsch/
+18 Bayern Klassik	http://dispatcher.rndfnk.com/br/brklassik/live/mp3/low
+19 NRW Schlagerradio http://rnrw.cast.addradio.de/rnrw-0182/deinschlager/low/stream.mp3
+20 Hörspiele	http://stream.laut.fm/hoerspiel
+21 Jugend		http://stream.laut.fm/jugend_radio
+22 NDR2 Niedersachsen http://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3
+23 NDR1 Hannove http://icecast.ndr.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3
+24 WDR1 http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3
+25 WDR COSMO http://wdr-cosmo-live.icecast.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3
+26 Deutschlandfunk http://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3
 
 
 ---
