@@ -5,10 +5,10 @@
 Funktion: WEB-Radio mit LCD Display 4 Zeilen 
 
 **************************************************************************************************
-Version: 25.08.2024
+Version: 23.09.2024
 IP-Adresse und ssid -> display
 **************************************************************************************************
-Board: ESP32vn IoT UNO
+Board: ESP32vn IoT UNO V1.0.6
 **************************************************************************************************
 Libraries:
 https://github.com/espressif/arduino-esp32/tree/master/libraries
@@ -43,7 +43,7 @@ typedef struct {
   uint8_t enabled;//flag to activate the station
 } Station;
 
-#define STATIONS 30 //number of stations in the list
+#define STATIONS 33 //number of stations in the list
 
 //gloabal variables
 Station stationlist[STATIONS];

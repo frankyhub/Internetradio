@@ -1,33 +1,44 @@
+//https://www.antenne.de/programm/empfang/webradio
+
 //default stationlist
-#define DEFAULTSTATIONS 25
+#define DEFAULTSTATIONS 33
 
+//Definition of a set of tested default stations
 Station defstations[DEFAULTSTATIONS] PROGMEM = {
-{"https://s10.streamingcloud.online:13552/radioluz320.mp3","*Spitalradio LuZ",1},
-{"http://dispatcher.rndfnk.com/br/br1/nbopf/mp3/low","Bayern1",1},
-{"http://rnrw.cast.addradio.de/rnrw-0182/deinrock/low/stream.mp3","NRW Rockradio",1},
-{"http://1a-rock.radionetz.de:8000/1a-rock.mp3","*1A Rock",1},
-{"http://rt1.radio/tu6h1","RT1 Rock",1},
-{"http://1a-ndw.radionetz.de/1a-ndw.mp3","*NDW",1},
-{"http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3","WDR1",1},
-{"http://wdr-wdr2-aachenundregion.icecastssl.wdr.de/wdr/wdr2/aachenundregion/mp3/128/stream.mp3","WDR2",1},
-{"http://wdr-wdr3-live.icecastssl.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3","WDR3",1},
-{"http://wdr-cosmo-live.icecast.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3","WDR COSMO",1},
-{"http://icecast.ndr.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3","NDR1 Hannover",1},
-{"http://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3","NDR2 Niedersachsen",1},
-{"http://dispatcher.rndfnk.com/hr/hr3/suedhessen/high","HR3",1},
-{"http://mdr-284280-1.cast.mdr.de/mdr/284280/1/mp3/low/stream.mp3","MDR",1},
-{"http://dispatcher.rndfnk.com/rbb/rbb888/live/mp3/mid","RBB",1},
-{"http://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3","Deutschlandfunk",1},
-{"http://dispatcher.rndfnk.com/rbb/antennebrandenburg/live/mp3/mid","Antenne Brandenburg",1},
-{"http://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3","N-JOY",1},
-{"http://stream01.zogl.net:8906/stream","Radino",1},
-{"http://rnrw.cast.addradio.de/rnrw-0182/dein90er/low/stream.mp3","NRW 90er",1},
-{"http://stream.1a-webradio.de/saw-deutsch/","1A Deutsche Hits",1},
-{"http://streams.80s80s.de/ndw/mp3-192/streams.80s80s.de/","Neue Deutsche Welle",1},
-{"http://dispatcher.rndfnk.com/br/brklassik/live/mp3/low","Bayern Klassik",1},
-{"http://rnrw.cast.addradio.de/rnrw-0182/deinschlager/low/stream.mp3","NRW Schlagerradio",1},
-{"http://stream.laut.fm/hoerspiel","Hoerspiele",1}};
-
+  { "https://s10.streamingcloud.online:13552/radioluz320.mp3", "*Radio LuZ", 1 },
+  { "http://dispatcher.rndfnk.com/br/br1/nbopf/mp3/low","Bayern1",1},
+  { "http://stream.antenne.de/oldie-antenne","Oldie Radio",1},
+  { "http://stream.antenne.de/70er-hits","70er-hits",1},
+  { "http://stream.antenne.de/80er-kulthits","80er-kulthits",1},
+  { "http://stream.antenne.de/classic-rock-live","classic-rock-live",1},
+  { "http://1a-rock.radionetz.de:8000/1a-rock.mp3","*1A Rock",1},
+  { "http://1a-ndw.radionetz.de/1a-ndw.mp3","*NDW",1},
+  { "http://stream.antenne.de/antenne", "Antenne Bayern", 1 },
+  { "http://1a-rock.radionetz.de:8000/1a-rock.mp3", "*1A Rock", 1 }, 
+  { "http://1a-ndw.radionetz.de/1a-ndw.mp3", "*NDW", 1 }, 
+  { "http://dispatcher.rndfnk.com/hr/hr3/suedhessen/high", "HR3", 1 },
+  { "http://dispatcher.rndfnk.com/rbb/rbb888/live/mp3/mid", "RBB", 1 },
+  { "http://rnrw.cast.addradio.de/rnrw-0182/deinrock/low/stream.mp3", "NRW Rockradio", 1 },  
+  { "http://dispatcher.rndfnk.com/rbb/antennebrandenburg/live/mp3/mid", "Antenne Brandenburg", 1 },
+  { "http://wdr-wdr2-aachenundregion.icecastssl.wdr.de/wdr/wdr2/aachenundregion/mp3/128/stream.mp3", "WDR 2", 1 },
+  { "http://wdr-wdr3-live.icecastssl.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3", "WDR3", 1 },
+  { "http://streams.radiobob.de/bob-national/mp3-192/mediaplayer", "BOB", 1 },
+  { "http://mdr-284280-1.cast.mdr.de/mdr/284280/1/mp3/low/stream.mp3", "MDR", 1 },
+  { "http://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3", "N-JOY", 1 },
+  { "http://stream01.zogl.net:8906/stream", "Radino", 1 },
+  { "http://radio.toggo.de/live/mp3-192/radio.toggo.de/", "Toggo", 1 },
+  { "http://stream.laut.fm/hoerspiel", "Hörspiele", 1 },
+  { "http://stream.laut.fm/jugend_radio", "Jugend", 1 },
+  { "http://646.cloudrad.io:8234", "Strobe", 1 },
+  { "http://646.cloudrad.io:8276", "Pulse107", 1 },
+  { "http://646.cloudrad.io:8314", "DJ Perry", 1 },
+  { "http://rnrw.cast.addradio.de/rnrw-0182/dein90er/low/stream.mp3", "NRW 90er", 1 },
+  { "http://stream.1a-webradio.de/saw-deutsch/", "1A Deutsche Hits", 1 },
+  { "http://dispatcher.rndfnk.com/br/brklassik/live/mp3/low", "Bayern Klassik", 1 },
+  { "http://rnrw.cast.addradio.de/rnrw-0182/deinschlager/low/stream.mp3", "NRW Schlagerradio", 1 },
+  { "http://rt1.radio/tu6h1", "RT1 Rock", 1 },
+  { "http://stream.streambase.ch/vrock/mp3-192/", "Virgin Radio", 1 }
+};
 
 
 
