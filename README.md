@@ -5,12 +5,10 @@
 |[:skull:ISSUE](https://github.com/frankyhub/Internetradio/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/Internetradio/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/Internetradio/wiki)||
 |--|--|--|--|
 | | | | |
-|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2078-blue)|<a href="https://github.com/frankyhub/Internetradio/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Internetradio)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Internetradio)|<a href="https://github.com/frankyhub/Internetradio/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Internetradio)|<a href="https://github.com/frankyhub/Internetradio/releases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Internetradio)|
-|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Internetradio)| <a href="https://github.com/frankyhub/Internetradio/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Internetradio/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
+<a href="https://github.com/frankyhub/Internetradio/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Internetradio)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Internetradio)|<a href="https://github.com/frankyhub/Internetradio/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Internetradio)|<a href="https://github.com/frankyhub/Internetradio/6eleases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Internetradio)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2078-blue)|
+|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Internetradio)| <a href="https://github.com/frankyhub/Internetradio/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Internetradio/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)||
+
 </div>
-
-
-
 
 
 # Internetradio
@@ -26,8 +24,8 @@ Da nicht jede Sender-URL abspielbar ist, kann die URL über die Browserkonfigura
 
 Internetradio 
 
- ![Bild](pic/Iradio0.png)
-
+<img src="pic/Iradio0.png" width="500"> 
+<br> <br>
 
 ---
 
@@ -58,14 +56,16 @@ Internetradio
 
 Mit LCD-Display
 
-![Bild](pic/Schaltplan1.png)
+<img src="pic/Schaltplan1.png" width="500"> 
+<br> <br>
 
 Mit TFT-Display
 
-![Bild](pic/Schaltplan2.png)
+<img src="pic/Schaltplan2.png" width="500"> 
+<br> <br>
 
-
-![Bild](pic/Iradio2.png)
+<img src="pic/Iradio2.png" width="500"> 
+<br> <br>
 
 ---
 
@@ -90,22 +90,28 @@ Wird der Knopf am Encoder innerhalb von 10 Sekunden nicht gedrückt, springt die
 
 Aufruf "Internetradio" in den WLAN-Einstellungen
 
-![Bild](pic/Accesspoint0.png)
+<img src="pic/Accesspoint0.png" width="500"> 
+<br> <br>
 
 Im Browser 192.168.4.1 eingeben
 
-![Bild](pic/Accesspoint1.png)
+<img src="pic/Accesspoint1.png" width="500"> 
+<br> <br>
 
 Im Browser die Zugangsdaten eingeben und neu starten
 
-![Bild](pic/Accesspoint3.png)
+<img src="pic/Accesspoint3.png" width="500"> 
+<br> <br>
 
 Kontrolle mit dem Seriellen Monitor
 
-![Bild](pic/sermonitor.png)
+<img src="pic/sermonitor.png" width="500"> 
+<br> <br>
 
-  ![Bild](pic/Iradio4.png)
-  
+
+<img src="pic/Iradio4.png" width="500"> 
+<br> <br
+
 
 
 ---
@@ -126,7 +132,9 @@ Sollte die Wiedergabe nicht funktionieren, wird sofort wieder auf den aktuellen 
 Ist die Wiedergabe möglich, wird eine Box mit einem Knopf angezeigt. Ein Klicken auf diesen Knopf schließt die Box und beendet den Test. 
 Es wird wieder die aktuelle Station wiedergegeben.  Mit dem Knopf „Ändern“ können die Änderungen für die ausgewählte Station dauerhaft geändert werden.
 
- ![Bild](pic/Internetradion2.png)
+
+<img src="pic/Internetradion2.png" width="500"> 
+<br> <br
 
 
 ---
@@ -135,14 +143,14 @@ Es wird wieder die aktuelle Station wiedergegeben.  Mit dem Knopf „Ändern“ 
  ## Programmierung über OTA
 
 
- ![Bild](pic/OTA.png)
-
- ![Bild](pic/OTA2.png)
- 
-  ![Bild](pic/OTA3.png)
-
-
-
+<img src="pic/OTA.png" width="500"> 
+<br> <br
+      
+<img src="pic/OTA2.png" width="500"> 
+<br> <br
+      
+<img src="pic/OTA3.png" width="500"> 
+<br> <br
 
  ---
  
