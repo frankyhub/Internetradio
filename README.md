@@ -5,27 +5,21 @@
 |[:skull:ISSUE](https://github.com/frankyhub/Internetradio/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/Internetradio/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/Internetradio/wiki)||
 |--|--|--|--|
 | | | | |
-<a href="https://github.com/frankyhub/Internetradio/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Internetradio)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Internetradio)|<a href="https://github.com/frankyhub/Internetradio/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Internetradio)|<a href="https://github.com/frankyhub/Internetradio/6eleases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Internetradio)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2078-blue)|
+<a href="https://github.com/frankyhub/Internetradio/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Internetradio)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Internetradio)|<a href="https://github.com/frankyhub/Internetradio/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Internetradio)|<a href="https://github.com/frankyhub/Internetradio/6eleases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Internetradio)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%20073-blue)|
 |![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Internetradio)| <a href="https://github.com/frankyhub/Internetradio/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Internetradio/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)||
+
+<img src="pic/Iradio0.png" width="500"> 
+<br> <br>
 
 </div>
 
-
-# Internetradio
-Internetradio mit WEB-Server, OTA-Funktion, TFT 1,88 oder LCD 4 Zeilen Display, digitales Amplifier Board MAX98357A
-
 ## Story
-Das Internetradio steht mit einem  TFT 1,88" Display oder einem LCD 4x20 Display mit I2C Schnittstelle zur Verfügung.
+Das Internetradio steht aus einem WEB-Server, OTA-Funktion, TFT 1,88 oder LCD 4 Zeilen Display und einem digitales Amplifier Board MAX98357A.
 Neben dem gerade gespielten Sender werden Datum und Uhrzeit, sowie die aktuelle Lautstärke angezeigt. 
 In den beiden unteren Zeilen sind die Informationen zum laufenden Programm, die mit dem Audiostream mitgeschickt werden. 
 Die Lautstärkeregelung erfolgt ebenso wie die Senderwahl über einen Rotary-Encoder. Die Konfiguration kann
 auch über einen Browser erfolgen. Über diesen Weg ist die Senderliste veränder- und erweiterbar. 
 Da nicht jede Sender-URL abspielbar ist, kann die URL über die Browserkonfiguration vor dem speichern vorab getestet werden. 
-
-Internetradio 
-
-<img src="pic/Iradio0.png" width="500"> 
-<br> <br>
 
 ---
 
