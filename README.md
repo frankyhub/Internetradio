@@ -13,7 +13,7 @@
 
 </div>
 
-## Story
+## 🚀 Story
 Das Internetradio besteht aus einem WEB-Server, OTA-Funktion, TFT 1,88 oder LCD 4 Zeilen Display und einem digitales Amplifier Board MAX98357A.
 Neben dem gerade gespielten Sender werden Datum und Uhrzeit, sowie die aktuelle Lautstärke angezeigt. 
 In den beiden unteren Zeilen sind die Informationen zum laufenden Programm, wenn sie vom Sendder mit dem Audiostream mitgeschickt werden. 
@@ -23,7 +23,7 @@ Da nicht jede Sender-URL abspielbar ist, kann die URL über die Browserkonfigura
 
 ---
 
-## Hardware
+## 🎛️ Hardware
 
 | Anzahl | Bezeichnung | 
 | :--------: | :-------- | 
@@ -46,7 +46,7 @@ Da nicht jede Sender-URL abspielbar ist, kann die URL über die Browserkonfigura
 
 ---
 
-## Verdrahtung
+## 🔧 Verdrahtung
 
 Mit LCD-Display
 
@@ -66,7 +66,7 @@ Mit TFT-Display
 
 
 
-## Inbetriebnahme
+## 🔧 Inbetriebnahme
 
 Bei der ersten Inbetriebnahme ist noch keine SSID und kein WLAN-Passwort vorhanden. Es kann daher keine Verbindung zum lokalen WLAN hergestellt werden. 
 Ein Accesspoint mit der SSID „Internetradio“ wird gestartet. Mit einem Smartphone oder einem Tablet kann nun eine Verbindung zu diesem 
@@ -82,7 +82,7 @@ Auch dieser Wert wird in den Präferenzen gespeichert und beim nächsten Start d
 Wird der Knopf am Encoder innerhalb von 10 Sekunden nicht gedrückt, springt die Anzeige auf die aktuelle Station zurück.
 
 
-## WLAN-Daten speichern
+## ✨ WLAN-Daten speichern
 
 
 Aufruf "Internetradio" in den WLAN-Einstellungen
@@ -114,7 +114,7 @@ Kontrolle mit dem Seriellen Monitor
 ---
 
 
-## Konfigurations Update
+## 🔧 Konfigurations Update
 
 Über die URL http://Internetradio/ sollte die Konfigurationsseite abrufbar sein. Im oberen Teil können die Zugangsdaten und der NTP-Server geändert werden. 
 Die Änderungen werden erst dann wirksam, wenn der Knopf „Speichern“ geklickt wurde.
@@ -137,7 +137,7 @@ Es wird wieder die aktuelle Station wiedergegeben.  Mit dem Knopf „Ändern“ 
 ---
 
 
- ## Programmierung über OTA
+ ## 💻 Programmierung über OTA
 
 
 <img src="pic/OTA.png" width="500"> 
@@ -152,7 +152,7 @@ Es wird wieder die aktuelle Station wiedergegeben.  Mit dem Knopf „Ändern“ 
  ---
  
 
-## Voreingestellte Senderliste
+## 📋 Voreingestellte Senderliste
 
 1* Spitalradio LuZ	https://s10.streamingcloud.online:13552/radioluz320.mp3
 
