@@ -26,7 +26,7 @@ Da nicht jede Sender-URL abspielbar ist, kann die URL über die Browserkonfigura
 ## Hardware
 
 | Anzahl | Bezeichnung | 
-| :--------: | -------- | 
+| :--------: | :-------- | 
 | 1  | ESP32vn IoT UNO |
 | 1  |  Shield  |
 |  2 |  I2S Digitalverstärker mit MAX98357A  |
@@ -52,6 +52,7 @@ Mit LCD-Display
 
 <img src="pic/Schaltplan1.png" width="500"> 
 <br> <br>
+
 
 Mit TFT-Display
 
@@ -80,7 +81,9 @@ Durch Drücken des Kopfes am Encoder wird die gerade angezeigte Station gespeich
 Auch dieser Wert wird in den Präferenzen gespeichert und beim nächsten Start die zuletzt gewählte Station wiedergegeben. 
 Wird der Knopf am Encoder innerhalb von 10 Sekunden nicht gedrückt, springt die Anzeige auf die aktuelle Station zurück.
 
+
 ## WLAN-Daten speichern
+
 
 Aufruf "Internetradio" in den WLAN-Einstellungen
 
@@ -212,8 +215,3 @@ Es wird wieder die aktuelle Station wiedergegeben.  Mit dem Knopf „Ändern“ 
 
 ---
 
-<div style="position:absolute; left:2cm; ">   
-<ol class="breadcrumb" style="border-top: 2px solid black;border-bottom:2px solid black; height: 45px; width: 900px;"> <p align="center"><a href="#oben">nach oben</a></p></ol>
-</div>  
-
----
