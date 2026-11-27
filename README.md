@@ -14,9 +14,9 @@
 </div>
 
 ## Story
-Das Internetradio steht aus einem WEB-Server, OTA-Funktion, TFT 1,88 oder LCD 4 Zeilen Display und einem digitales Amplifier Board MAX98357A.
+Das Internetradio besteht aus einem WEB-Server, OTA-Funktion, TFT 1,88 oder LCD 4 Zeilen Display und einem digitales Amplifier Board MAX98357A.
 Neben dem gerade gespielten Sender werden Datum und Uhrzeit, sowie die aktuelle Lautstärke angezeigt. 
-In den beiden unteren Zeilen sind die Informationen zum laufenden Programm, die mit dem Audiostream mitgeschickt werden. 
+In den beiden unteren Zeilen sind die Informationen zum laufenden Programm, wenn sie vom Sendder mit dem Audiostream mitgeschickt werden. 
 Die Lautstärkeregelung erfolgt ebenso wie die Senderwahl über einen Rotary-Encoder. Die Konfiguration kann
 auch über einen Browser erfolgen. Über diesen Weg ist die Senderliste veränder- und erweiterbar. 
 Da nicht jede Sender-URL abspielbar ist, kann die URL über die Browserkonfiguration vor dem speichern vorab getestet werden. 
@@ -26,7 +26,7 @@ Da nicht jede Sender-URL abspielbar ist, kann die URL über die Browserkonfigura
 ## Hardware
 
 | Anzahl | Bezeichnung | 
-| -------- | -------- | 
+| :--------: | -------- | 
 | 1  | ESP32vn IoT UNO |
 | 1  |  Shield  |
 |  2 |  I2S Digitalverstärker mit MAX98357A  |
@@ -65,7 +65,7 @@ Mit TFT-Display
 
 
 
-### Inbetriebnahme
+## Inbetriebnahme
 
 Bei der ersten Inbetriebnahme ist noch keine SSID und kein WLAN-Passwort vorhanden. Es kann daher keine Verbindung zum lokalen WLAN hergestellt werden. 
 Ein Accesspoint mit der SSID „Internetradio“ wird gestartet. Mit einem Smartphone oder einem Tablet kann nun eine Verbindung zu diesem 
@@ -111,7 +111,7 @@ Kontrolle mit dem Seriellen Monitor
 ---
 
 
-### Konfigurations Update
+## Konfigurations Update
 
 Über die URL http://Internetradio/ sollte die Konfigurationsseite abrufbar sein. Im oberen Teil können die Zugangsdaten und der NTP-Server geändert werden. 
 Die Änderungen werden erst dann wirksam, wenn der Knopf „Speichern“ geklickt wurde.
@@ -203,6 +203,12 @@ Es wird wieder die aktuelle Station wiedergegeben.  Mit dem Knopf „Ändern“ 
 
 26 Deutschlandfunk http://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3
 
+
+---
+
+<div style="position:absolute; left:2cm; ">   
+<ol class="breadcrumb" style="border-top: 2px solid black;border-bottom:2px solid black; height: 45px; width: 900px;"> <p align="center"><a href="#oben">nach oben</a></p></ol>
+</div>  
 
 ---
 
